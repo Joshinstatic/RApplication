@@ -1,2 +1,2 @@
 # RApplication
-# RApplication
+# summarry of R application
